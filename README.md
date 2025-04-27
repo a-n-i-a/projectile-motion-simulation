@@ -1,7 +1,7 @@
 # 🛸 Projectile Motion Simulation
 
 My implementation of Projectile Motion Simulation using two methods: Euler's and Midpoint. I have used Excel, but one day 
-I might implement it in Python once I will know the language enough :)
+I might implement it in Python once I know the language enough :)
 
 > Added, because I wanted to keep this project in easily findable place - as it has taken quite a while to complete...
 
